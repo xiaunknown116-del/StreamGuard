@@ -1,0 +1,3 @@
+Open this file first. It contains pointers to the main StreamGuard-Final setup and quickstart.
+
+See SETUP-STEPS.txt for an expanded setup and troubleshooting guide.
