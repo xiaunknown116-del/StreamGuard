@@ -1,0 +1,5 @@
+Animaze avatar setup & tips (placeholder)
+
+- Use Animaze to create or import avatars.
+- Export files to the expected Studio folder referenced by index.html.
+- For lip-sync and expressions, follow Animaze export guidelines.
