@@ -1,0 +1,7 @@
+Proxy API description (placeholder)
+
+Endpoints:
+- GET /health
+  - returns {"status": "ok"}
+- POST /proxy/trigger
+  - accepts JSON payload and forwards actions to OBS (placeholder)

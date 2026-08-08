@@ -1,0 +1,22 @@
+Full setup and troubleshooting steps for the StreamGuard-Final OBS/studio bundle.
+
+Quickstart (Linux / macOS):
+
+1. Create and activate a Python virtual environment:
+
+   python3 -m venv .venv
+   source .venv/bin/activate
+
+2. Install the proxy dependencies:
+
+   pip install -r StreamGuard-Final/obs-proxy/requirements.txt
+
+3. Start the OBS proxy (optional):
+
+   python StreamGuard-Final/obs-proxy/main.py
+
+4. Use the provided index.html and Start-StreamGuard-Pro.bat to launch the studio UI or batch scripts on Windows.
+
+Troubleshooting:
+- If the proxy fails to start, check Python version (3.8+ recommended) and that dependencies are installed.
+- If OBS integration isn't working, verify OBS WebSocket plugin is installed and accessible.

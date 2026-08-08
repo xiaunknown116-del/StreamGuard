@@ -1,0 +1,4 @@
+Ulipsync calibration guide (placeholder)
+
+- Optional path for VTube Studio / Ulipsync integration.
+- Calibrate mic sensitivity and mouth shapes per application instructions.

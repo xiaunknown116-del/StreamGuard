@@ -1,0 +1,4 @@
+Advanced OBS encoding and bitrate suggestions (placeholder)
+
+- For 1080p/60fps streaming, consider x264 CRF 18-23 or hardware encoder (NVENC) at CBR 6000-8000 kbps.
+- Reduce CPU usage by enabling hardware encoding where available.
